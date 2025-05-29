@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|c:\\users\\stiven\\source\\repos\\webhoteles\\webhoteles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|solutionrelative:webhoteles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|c:\\users\\stiven\\source\\repos\\webhoteles\\webhoteles\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|solutionrelative:webhoteles\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|c:\\users\\stiven\\source\\repos\\webhoteles\\webhoteles\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BB5A83-66F5-4750-9A1A-F33431330C87}|WebHoteles\\WebHoteles.csproj|solutionrelative:webhoteles\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\appsettings.json",
+              "RelativeDocumentMoniker": "WebHoteles\\appsettings.json",
+              "ToolTip": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\appsettings.json",
+              "RelativeToolTip": "WebHoteles\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T17:48:18.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "WebHoteles\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\Models\\Usuarios.cs",
+              "RelativeToolTip": "WebHoteles\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:12:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebHoteles\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\stiven\\source\\repos\\WebHoteles\\WebHoteles\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebHoteles\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:06:24.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
